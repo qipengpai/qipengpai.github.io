@@ -1,0 +1,12 @@
+# ignore
+node_modules/
+.deploy_git/
+*.log
+db.json
+package-lock.json
+
+themes/next/source/sell/
+themes/next/source/music/
+themes/next/source/dreamingpoet/
+themes/next/source/vue-tour/
+themes/next/source/my-example/
